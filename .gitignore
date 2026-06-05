@@ -1,0 +1,30 @@
+# LinkBoy third-party runtime and local installers.
+/linkboy/
+/*.exe
+/*.exe.config
+/*.pdf
+
+# Local generated/opened work files. Only curated deliverables are tracked.
+/work/*
+!/work/port_sort.lab
+!/work/port_sort_self_check.md
+!/work/pdf_alignment_audit.md
+!/work/port_sort_experiment_report.md
+!/work/simulation_probe_windowcap.log
+!/work/simulation_probe_windowcap_*.png
+
+# Python/Windows build noise.
+**/__pycache__/
+*.pyc
+*.pdb
+*.tmp
+*.log.tmp
+
+# Exploratory LinkBoy automation scripts kept local unless promoted.
+/tools/*.ps1
+!/tools/capture_linkboy_windows.ps1
+/tools/InspectLinkBoyApi.cs
+/tools/LinkBoyCompileProbe.cs
+/tools/RunLinkBoySimulationProbeLegacy.cs
+/tools/bin/*
+!/tools/bin/RunLinkBoySimulationProbe.exe
