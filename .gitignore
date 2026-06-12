@@ -3,6 +3,7 @@
 /*.exe
 /*.exe.config
 /*.pdf
+!/基于多级优先级队列的智能仓库任务调度仿真系统.pdf
 
 # Local generated/opened work files. Only curated deliverables are tracked.
 /work/*
@@ -12,6 +13,12 @@
 !/work/port_sort_experiment_report.md
 !/work/simulation_probe_windowcap.log
 !/work/simulation_probe_windowcap_*.png
+!/work/warehouse_scheduler.lab
+!/work/warehouse_self_check.md
+!/work/warehouse_pdf_alignment_audit.md
+!/work/warehouse_runtime_flow_audit.md
+!/work/warehouse_pdf_text.txt
+!/work/warehouse_simulation_probe_windowcap.log
 
 # Python/Windows build noise.
 **/__pycache__/

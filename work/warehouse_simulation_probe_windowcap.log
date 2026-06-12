@@ -1,0 +1,82 @@
+START 2026-06-12 14:49:31
+BASE=D:\linkboy\linkboy
+LAB=D:\linkboy\work\warehouse_scheduler_runtime_verify.lab
+MODE=windowcap
+MAX_SECONDS=22
+Application.StartupPath=D:\linkboy\linkboy
+CALL U.U.Main
+TICK=1 forms=1
+FORM v_GForm.GForm title=[linkboy] visible=True disposed=False
+TICK=2 forms=1
+FORM v_GForm.GForm title=[linkboy v5.56 (2025.5.11)   warehouse_scheduler_runtime_verify (D:\linkboy\work\warehouse_scheduler_runtime_verify.lab)] visible=True disposed=False
+TICK=3 forms=1
+FORM v_GForm.GForm title=[linkboy v5.56 (2025.5.11)   warehouse_scheduler_runtime_verify (D:\linkboy\work\warehouse_scheduler_runtime_verify.lab)] visible=True disposed=False
+TICK=4 forms=1
+FORM v_GForm.GForm title=[linkboy v5.56 (2025.5.11)   warehouse_scheduler_runtime_verify (D:\linkboy\work\warehouse_scheduler_runtime_verify.lab)] visible=True disposed=False
+TICK=5 forms=1
+FORM v_GForm.GForm title=[linkboy v5.56 (2025.5.11)   warehouse_scheduler_runtime_verify (D:\linkboy\work\warehouse_scheduler_runtime_verify.lab)] visible=True disposed=False
+TICK=6 forms=1
+FORM v_GForm.GForm title=[linkboy v5.56 (2025.5.11)   warehouse_scheduler_runtime_verify (D:\linkboy\work\warehouse_scheduler_runtime_verify.lab)] visible=True disposed=False
+TICK=7 forms=1
+FORM v_GForm.GForm title=[linkboy v5.56 (2025.5.11)   warehouse_scheduler_runtime_verify (D:\linkboy\work\warehouse_scheduler_runtime_verify.lab)] visible=True disposed=False
+TICK=8 forms=1
+FORM v_GForm.GForm title=[linkboy v5.56 (2025.5.11)   warehouse_scheduler_runtime_verify (D:\linkboy\work\warehouse_scheduler_runtime_verify.lab)] visible=True disposed=False
+WINDOW_SCREEN=D:\linkboy\work\simulation_probe_windowcap_before_gform.png type=v_GForm.GForm title=[linkboy v5.56 (2025.5.11)   warehouse_scheduler_runtime_verify (D:\linkboy\work\warehouse_scheduler_runtime_verify.lab)] size=1812x1230
+TICK=9 forms=1
+FORM v_GForm.GForm title=[linkboy v5.56 (2025.5.11)   warehouse_scheduler_runtime_verify (D:\linkboy\work\warehouse_scheduler_runtime_verify.lab)] visible=True disposed=False
+TICK=10 forms=1
+FORM v_GForm.GForm title=[linkboy v5.56 (2025.5.11)   warehouse_scheduler_runtime_verify (D:\linkboy\work\warehouse_scheduler_runtime_verify.lab)] visible=True disposed=False
+GFORM_TITLE=linkboy v5.56 (2025.5.11)   warehouse_scheduler_runtime_verify (D:\linkboy\work\warehouse_scheduler_runtime_verify.lab)
+SIM_STATUS_before=False
+myGFilePanel=n_GFilePanel.GFilePanel
+GPanel=n_ImagePanel.ImagePanel
+GHead=n_Head.Head
+INVOKE SimuButton_MouseDownEvent
+INVOKED SimuButton_MouseDownEvent
+SIM_STATUS_after=False
+WINDOW_SCREEN=D:\linkboy\work\simulation_probe_windowcap_after_invoke_gform.png type=v_GForm.GForm title=[linkboy v5.56 (2025.5.11)   warehouse_scheduler_runtime_verify (D:\linkboy\work\warehouse_scheduler_runtime_verify.lab)] size=1812x1230
+WINDOW_SCREEN=D:\linkboy\work\simulation_probe_windowcap_after_invoke_simform.png type=n_SimForm.SimForm title=[环境模拟机] size=220x93
+TICK=11 forms=2
+FORM v_GForm.GForm title=[linkboy v5.56 (2025.5.11)   warehouse_scheduler_runtime_verify (D:\linkboy\work\warehouse_scheduler_runtime_verify.lab)] visible=True disposed=False
+FORM n_SimForm.SimForm title=[环境模拟机] visible=True disposed=False
+TICK=12 forms=2
+FORM v_GForm.GForm title=[linkboy v5.56 (2025.5.11)   warehouse_scheduler_runtime_verify (D:\linkboy\work\warehouse_scheduler_runtime_verify.lab)] visible=True disposed=False
+FORM n_SimForm.SimForm title=[环境模拟机] visible=True disposed=False
+TICK=13 forms=2
+FORM v_GForm.GForm title=[linkboy v5.56 (2025.5.11)   warehouse_scheduler_runtime_verify (D:\linkboy\work\warehouse_scheduler_runtime_verify.lab)] visible=True disposed=False
+FORM n_SimForm.SimForm title=[环境模拟机] visible=True disposed=False
+TICK=14 forms=2
+FORM v_GForm.GForm title=[linkboy v5.56 (2025.5.11)   warehouse_scheduler_runtime_verify (D:\linkboy\work\warehouse_scheduler_runtime_verify.lab)] visible=True disposed=False
+FORM n_SimForm.SimForm title=[环境模拟机] visible=True disposed=False
+SIM_FORM_TITLE=环境模拟机
+INVOKE_SIM_FORM_RUN
+TICK=15 forms=2
+FORM v_GForm.GForm title=[linkboy v5.56 (2025.5.11)   warehouse_scheduler_runtime_verify (D:\linkboy\work\warehouse_scheduler_runtime_verify.lab)] visible=True disposed=False
+FORM n_SimForm.SimForm title=[环境模拟机] visible=True disposed=False
+INVOKED ButtonRunClick
+WINDOW_SCREEN=D:\linkboy\work\simulation_probe_windowcap_after_run_gform.png type=v_GForm.GForm title=[linkboy v5.56 (2025.5.11)   warehouse_scheduler_runtime_verify (D:\linkboy\work\warehouse_scheduler_runtime_verify.lab)] size=1812x1230
+WINDOW_SCREEN=D:\linkboy\work\simulation_probe_windowcap_after_run_simform.png type=n_SimForm.SimForm title=[环境模拟机] size=220x93
+TICK=16 forms=2
+FORM v_GForm.GForm title=[linkboy v5.56 (2025.5.11)   warehouse_scheduler_runtime_verify (D:\linkboy\work\warehouse_scheduler_runtime_verify.lab)] visible=True disposed=False
+FORM n_SimForm.SimForm title=[环境模拟机] visible=True disposed=False
+TICK=17 forms=2
+FORM v_GForm.GForm title=[linkboy v5.56 (2025.5.11)   warehouse_scheduler_runtime_verify (D:\linkboy\work\warehouse_scheduler_runtime_verify.lab)] visible=True disposed=False
+FORM n_SimForm.SimForm title=[环境模拟机] visible=True disposed=False
+TICK=18 forms=2
+FORM v_GForm.GForm title=[linkboy v5.56 (2025.5.11)   warehouse_scheduler_runtime_verify (D:\linkboy\work\warehouse_scheduler_runtime_verify.lab)] visible=True disposed=False
+FORM n_SimForm.SimForm title=[环境模拟机] visible=True disposed=False
+TICK=19 forms=2
+FORM v_GForm.GForm title=[linkboy v5.56 (2025.5.11)   warehouse_scheduler_runtime_verify (D:\linkboy\work\warehouse_scheduler_runtime_verify.lab)] visible=True disposed=False
+FORM n_SimForm.SimForm title=[环境模拟机] visible=True disposed=False
+TICK=20 forms=2
+FORM v_GForm.GForm title=[linkboy v5.56 (2025.5.11)   warehouse_scheduler_runtime_verify (D:\linkboy\work\warehouse_scheduler_runtime_verify.lab)] visible=True disposed=False
+FORM n_SimForm.SimForm title=[环境模拟机] visible=True disposed=False
+TICK=21 forms=2
+FORM v_GForm.GForm title=[linkboy v5.56 (2025.5.11)   warehouse_scheduler_runtime_verify (D:\linkboy\work\warehouse_scheduler_runtime_verify.lab)] visible=True disposed=False
+FORM n_SimForm.SimForm title=[环境模拟机] visible=True disposed=False
+TICK=22 forms=2
+FORM v_GForm.GForm title=[linkboy v5.56 (2025.5.11)   warehouse_scheduler_runtime_verify (D:\linkboy\work\warehouse_scheduler_runtime_verify.lab)] visible=True disposed=False
+FORM n_SimForm.SimForm title=[环境模拟机] visible=True disposed=False
+WINDOW_SCREEN=D:\linkboy\work\simulation_probe_windowcap_after_wait_gform.png type=v_GForm.GForm title=[linkboy v5.56 (2025.5.11)   warehouse_scheduler_runtime_verify (D:\linkboy\work\warehouse_scheduler_runtime_verify.lab)] size=1812x1230
+WINDOW_SCREEN=D:\linkboy\work\simulation_probe_windowcap_after_wait_simform.png type=n_SimForm.SimForm title=[环境模拟机] size=220x93
+EXITING_OK
